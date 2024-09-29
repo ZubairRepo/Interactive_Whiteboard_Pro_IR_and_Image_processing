@@ -10,11 +10,6 @@ Revolutionizing Whiteboards: Geometrical Transformation and IR Pen Control for D
 - **Simple Setup**: Utilize a webcam and projector for easy setup and calibration.
 - **Versatile Use**: Ideal for interactive presentations, educational tools, and collaborative spaces.
 
-## Project Demonstration
-<a href="https://youtu.be/FpK8PYU6Rsc?si=9AVkPFdNyOAiSQc4" style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/480px-YouTube_icon_%282013-2017%29.png" alt="Project Demonstration" width="50" height="30">
-</a>
-
 > Check out a live demonstration of the Digital Board Pro in action on YouTube. Click the image above to watch the video.
 
 ## Project Components
@@ -87,15 +82,7 @@ Digital Board Pro has the potential for several future enhancements:
 - Gesture recognition for advanced interaction without the pen.
 - Modern state of the Art GUI.(with multiple features)
 
-## Contributions
-
-We welcome contributions! Please submit any pull requests or open an issue for any bugs or suggestions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-If there is any issue regarding the project and code you may email me for support and discussion. Thanks 
-[!EmailMe](mailto:ans.rehman.engineer@gmail.com)
+If there is any issue regarding the project and code you may [!EmailMe](mailto:zubair.executive@gmail.com) for support and discussion. Thanks 
+
